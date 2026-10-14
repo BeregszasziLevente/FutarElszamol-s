@@ -1,0 +1,4 @@
+﻿Kovács Péter;120;25;10
+Nagy Anna;80;18;0
+Szabó Gábor;150;30;45
+Tóth Dóra;95;22;5
